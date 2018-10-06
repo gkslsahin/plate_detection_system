@@ -1,0 +1,21 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\bitirme v1\bitirme v1\bin\Debug\bitirme v1.exe.config
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\bitirme v1\bitirme v1\bin\Debug\bitirme v1.exe
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\bitirme v1\bitirme v1\bin\Debug\bitirme v1.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\bitirme v1\bitirme v1\obj\Debug\bitirme v1.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\bitirme v1\bitirme v1\obj\Debug\bitirme_v1.Form1.resources
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\bitirme v1\bitirme v1\obj\Debug\bitirme_v1.Properties.Resources.resources
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\bitirme v1\bitirme v1\obj\Debug\bitirme v1.csproj.GenerateResource.Cache
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\bitirme v1\bitirme v1\obj\Debug\bitirme v1.exe
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\bitirme v1\bitirme v1\obj\Debug\bitirme v1.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\bitirme v1\bitirme v1\obj\Debug\bitirme_v1.Form2.resources
+C:\Users\gksls\Desktop\bitirme v1\bitirme v1\bin\Debug\bitirme v1.exe.config
+C:\Users\gksls\Desktop\bitirme v1\bitirme v1\bin\Debug\bitirme v1.exe
+C:\Users\gksls\Desktop\bitirme v1\bitirme v1\bin\Debug\bitirme v1.pdb
+C:\Users\gksls\Desktop\bitirme v1\bitirme v1\obj\Debug\bitirme v1.csprojAssemblyReference.cache
+C:\Users\gksls\Desktop\bitirme v1\bitirme v1\obj\Debug\bitirme_v1.Form1.resources
+C:\Users\gksls\Desktop\bitirme v1\bitirme v1\obj\Debug\bitirme_v1.Form2.resources
+C:\Users\gksls\Desktop\bitirme v1\bitirme v1\obj\Debug\bitirme_v1.Properties.Resources.resources
+C:\Users\gksls\Desktop\bitirme v1\bitirme v1\obj\Debug\bitirme v1.csproj.GenerateResource.cache
+C:\Users\gksls\Desktop\bitirme v1\bitirme v1\obj\Debug\bitirme v1.csproj.CoreCompileInputs.cache
+C:\Users\gksls\Desktop\bitirme v1\bitirme v1\obj\Debug\bitirme v1.exe
+C:\Users\gksls\Desktop\bitirme v1\bitirme v1\obj\Debug\bitirme v1.pdb
