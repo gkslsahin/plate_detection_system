@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1459321173 source:/home/yavuzwork/codeblocks-workspace/alpr_test/main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/photo/photo.hpp>
+	<iostream>
+	"alpr.h"
+	"tick_meter.hpp"
+
+1452283342 /home/yavuzwork/codeblocks-workspace/alpr_test/tick_meter.hpp
+
