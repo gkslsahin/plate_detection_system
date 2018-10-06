@@ -13,6 +13,7 @@ plate recognition on video stream<br/>
 cd stream<br/>
 ./build.sh<br/>
 ./plate_video_stream<br/>
+![alt text](https://github.com/gkslsahin/plate_detection_system/blob/master/plate_detect_image.png)
 
 
 
